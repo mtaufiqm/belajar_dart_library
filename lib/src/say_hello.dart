@@ -1,9 +1,5 @@
 String sayHello(String name){
-  return "Hello ${name}!.";
-}
-
-void main(){
-  print(sayHello("Taufiq"));
+  return "Hello ${name}!. Nice To See You!";
 }
 
 void exampleOnly(){
